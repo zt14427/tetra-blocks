@@ -1,0 +1,2 @@
+D:\Source\tetris\x64\Release\raylib.dll
+D:\source\tetris\tetris\x64\Release\tetris.vcxproj.Up2Date
